@@ -1,5 +1,5 @@
-# Dummy Facebook Post Creator
+# Simulador de Publicaciones de Facebook
 
 Live: https://muhammadovi.github.io/react-fb-post-creator
 
-\*Use on PC/Laptop for good experience.
+\*Usar en PC/Laptop para una mejor experiencia.
